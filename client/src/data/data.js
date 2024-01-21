@@ -1,0 +1,98 @@
+ export const data =  [
+  {
+    "BlockNumber": 657310,
+    "Hash": "6a8f0d1e1f99b835c1f1c7a4f94aaf51",
+    "Timestamp": "2021-01-23 08:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2567,
+    "speed": "9-10 sat/vB"
+  },
+  {
+    "BlockNumber": 65720,
+    "Hash": "ec58b032cc06e7139aaf729c660d4b79",
+    "Timestamp": "2021-01-23 09:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2145,
+    "speed": "7-8 sat/vB"
+  },
+  {
+    "BlockNumber": 657350,
+    "Hash": "91d1a5232e5edf775c194fe057bc3f36",
+    "Timestamp": "2021-01-23 10:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2874,
+    "speed": "10-11 sat/vB"
+  },
+  {
+    "BlockNumber": 69720,
+    "Hash": "3cf362f7c8e4a7d17b0679cc287e6c2f",
+    "Timestamp": "2021-01-23 11:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2036,
+    "speed": "12-13 sat/vB"
+  },
+  {
+    "BlockNumber": 658710,
+    "Hash": "4563f258db6c0b52cb41ac2b013d076a",
+    "Timestamp": "2021-01-23 12:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2490,
+    "speed": "14-15 sat/vB"
+  },
+  {
+    "BlockNumber": 634520,
+    "Hash": "c0de22ebd43c646963f960cf53f2dfcd",
+    "Timestamp": "2021-01-23 13:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2265,
+    "speed": "16-17 sat/vB"
+  },
+  {
+    "BlockNumber": 650980,
+    "Hash": "b13a167c3c32d545ab7a74750d5e80d3",
+    "Timestamp": "2021-01-23 14:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2788,
+    "speed": "18-19 sat/vB"
+  },
+  {
+    "BlockNumber": 78920,
+    "Hash": "b726a6c20aa5e43d61c299cc0d558ed6",
+    "Timestamp": "2021-01-23 15:47",
+    "Size": "1.39 MB",
+    "Weight": "3.99 MWU",
+    "TotalFees": "0.43 BTC ($13,710)",
+    "SubsidyAndFees": "6.68 BTC ($213,136)",
+    "Miner": "SpiderPool",
+    "Transactions": 2788,
+    "speed": "28-30 sat/vB"
+  },
+ ]
