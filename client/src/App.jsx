@@ -46,7 +46,7 @@ function App() {
       <div className='flex justify-evenly mt-6 mb-2 gap-6 text-center ' >
         {
           serialNumbers.map((num, index ) => (
-            <span onClick={handleOnClick} className='cursor-pointer' >{num}</span>
+            <span onClick={handleOnClick} className='cursor-pointer bg-gradient-to-r from-yellow-500 via-yellow-600 to-yellow-700 inline-block text-transparent bg-clip-text text-xl font-bold' >{num}</span>
           ))
         }
       </div>
